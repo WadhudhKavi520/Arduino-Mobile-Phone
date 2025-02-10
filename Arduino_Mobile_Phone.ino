@@ -4,7 +4,7 @@
  * Date: June 2024
  *
  * Description:
- * This project implements a basic mobile phone using an Arduino board, a SIM800L GSM module for cellular communication, 
+ * This project implements a basic mobile phone using an Arduino board, a SIM900A GSM module for cellular communication, 
  * and a 2.4-inch TFT touchscreen display for the user interface. The system allows users to dial numbers, make calls, 
  * and interact with a graphical keypad.
  *
@@ -19,7 +19,7 @@
  * - LCDWIKI_KBV.h (For TFT display control)
  * - LCDWIKI_GUI.h (For graphical interface support)
  * - TouchScreen.h (For touchscreen input processing)
- * - SoftwareSerial.h (For serial communication with SIM800L)
+ * - SoftwareSerial.h (For serial communication with SIM800L).
  *
  * Pin Configuration:
  * - **GSM Module (SIM800L)**:
